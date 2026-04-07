@@ -14,3 +14,4 @@ d. Executed git add . to stage the changes
 e. and git commit to save changes to the local repository.
 
 How the pull request process helped you ensure code quality and collaboration.
+I did not complete the pull request as I had issues completing some of the steps.  The directions were not clear for me to complete the seps.
