@@ -1,0 +1,16 @@
+The steps you took to create and manage branches.
+--The following steps were taking to create and merge branches.
+a.In my project folder i used command git checkout -b and the branch name I wanted to create
+b.I then made changes to the Index.html file that were to represent this branch.
+c.I returned to the command line and and staged the changes with git add index.html
+d.Then I committed those changes to the local repository
+e.Finaly I switched to the Master branch(git swithc master) and pushed my changes to the github repository with git push origin master
+
+How you handled the merge conflict.
+a. used the "compare changes" option and then used the keep both changes
+b. I then made changes the Index.html files so that the changes I wanted to keep were present
+c. I saved the file
+d. Executed git add . to stage the changes
+e. and git commit to save changes to the local repository.
+
+How the pull request process helped you ensure code quality and collaboration.
